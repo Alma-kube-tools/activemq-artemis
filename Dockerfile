@@ -39,7 +39,7 @@ RUN groupadd -g 1000 -r artemis && useradd -r -u 1000 -g artemis artemis \
 
 USER artemis
 
-ADD apache-artemis-2.11.0/. /opt/activemq-artemis
+ADD apache-artemis-2.13.0/. /opt/activemq-artemis
 
 # Web Server
 EXPOSE 8161 \
