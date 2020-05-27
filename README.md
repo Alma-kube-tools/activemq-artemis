@@ -4,17 +4,17 @@ Updatetd to Artemis MQ 2.13
 
 
 Port Config of contaner iamge
- Web Server
-8161 
- JMX Exporter
-9404 
- Port for CORE,MQTT,AMQP,HORNETQ,STOMP,OPENWIRE
-61616 
- Port for HORNETQ,STOMP
-5445 
- Port for AMQP
-5672 
- Port for MQTT
-1883 
- Port for STOMP
+Web Server
+8161
+JMX Exporter
+9404
+Port for CORE,MQTT,AMQP,HORNETQ,STOMP,OPENWIRE
+61616
+Port for HORNETQ,STOMP
+5445
+Port for AMQP
+5672
+Port for MQTT
+1883
+Port for STOMP
 61613
