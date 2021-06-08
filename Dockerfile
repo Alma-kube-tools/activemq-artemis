@@ -70,3 +70,4 @@ WORKDIR /var/lib/artemis-instance
 
 ENTRYPOINT ["/docker-run.sh"]
 CMD ["run"]
+
